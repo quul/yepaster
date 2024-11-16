@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Paste" ALTER COLUMN "ip" DROP NOT NULL,
+ALTER COLUMN "accessCode" DROP NOT NULL;
